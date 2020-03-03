@@ -1,0 +1,17 @@
+{
+  "dilate_k_size": 3,
+  "dilate_iteration": 1,
+  "erode_k_size": 3,
+  "erode_iteration": 1,
+  "close_k_size": 3,
+  "close_iteration": 1,
+  "open_k_size": 3,
+  "open_iteration": 1,
+  "k_size": 9,
+  "sigma_X": 0,
+  "sigma_Y": 0,
+  "max_val": 255,
+  "block_size": 11,
+  "C": 2,
+  "list_op": ["close","dilate"]
+}

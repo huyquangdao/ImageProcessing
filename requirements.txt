@@ -1,0 +1,9 @@
+opencv-python==4.1.0.25
+opencv-contrib-python==4.1.0.25
+matplotlib
+torch
+torchvision
+keras
+tensorflow==1.14.0
+fuzzywuzzy
+numpy_ringbuffer
