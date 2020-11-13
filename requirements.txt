@@ -4,6 +4,6 @@ matplotlib
 torch
 torchvision
 keras
-tensorflow==1.14.0
+tensorflow==2.3.1
 fuzzywuzzy
 numpy_ringbuffer
